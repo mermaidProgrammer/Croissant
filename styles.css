@@ -8,7 +8,14 @@ p {
 footer {
   text-align: center;
 }
+
 footer a {
   color: green;
   margin: 0 10px;
+}
+.photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
